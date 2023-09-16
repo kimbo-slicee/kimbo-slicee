@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+profile%2C+I'+m+Mohammed)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+profile%2C+I'+m+Mohammed_EL_Aouri)](https://git.io/typing-svg)
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="100%" height="300px">
+<img src="https://media.tenor.com/YZPnGuPeZv8AAAAC/coding.gif" alt="Coding Gif" width="100%" height="300px">
 
-## Hi, I'm [Mohammed!!](https://github.com/kimbo-slicee/) Junior Web Full Stack developer & SE student👋
+## Hi, I'm [Mohammed-El-Aouri!!](https://github.com/kimbo-slicee/) Junior Web Full Stack developer & SE student👋
 
 I'm a junior web full stack developer👨‍💻 from Morocco ! I'm really passionate about tech and programming, and I love to learn new things🤩. I love to take the lead and explore new feilds🤓. Solving real-life problems is what enjoy the most, and I wish that I can have an enjoyable😁career and a great professional expreinces😎that test the limits of my skills✨.
 
@@ -50,16 +50,16 @@ I'm a junior web full stack developer👨‍💻 from Morocco ! I'm really passi
 ### ⚙️ &nbsp;Some Stats
 
 <p align="left">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=KHDEVAM&show_icons=true&theme=algolia&hide_border=true" />
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=KHDEVAM&theme=algolia&hide_border=true" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=kimbo-slicee&show_icons=true&theme=algolia&hide_border=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kimbo-slicee&theme=algolia&hide_border=true" />
 </p>
 <br>
 
-[![KHDEVAM's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KHDEVAM&theme=tokyo-night)](https://github.com/KHDEVAM/github-readme-activity-graph)
+[![kimbo-slicee's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kimbo-slicee&theme=tokyo-night)](https://github.com/kimbo-slicee/github-readme-activity-graph)
 
 <br />
 <p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=KHDEVAM&theme=algolia"( https://github.com/KHDEVAM/github-profile-trophy) />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=kimbo-slicee&theme=algolia"( https://github.com/kimbo-slicee/github-profile-trophy) />
 </p>
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%, align:center"/>
@@ -74,5 +74,5 @@ I'm a junior web full stack developer👨‍💻 from Morocco ! I'm really passi
 
 - 📕 &nbsp; I’m currently studying web full stack development.
 - 🚀 &nbsp; I’m currently enrolled in [ALX Software Engineering Program](https://alxafrica.com).
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/KHDEVAM).
-- 👾 &nbsp; My birthday is 13.08.2003.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/kimbo-slicee).
+- 👾 &nbsp; My birthday is 05.10.1998.
