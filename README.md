@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+profile%2C+I'+m+Mohammed_EL_Aouri)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+profile%2C+I'+m+Mohammed+EL+Aouri)](https://git.io/typing-svg)
 
-<img src="https://static1.squarespace.com/static/558c162ee4b03447dc049b73/t/56a09aef9cadb60afe120881/1453366010166/?format=1500w" alt="Coding Gif" width="100%" height="300px">
+<img src="https://res.cloudinary.com/cloudinary-marketing/images/v1649720751/Web_Assets/blog/Mario_1/Mario_1-gif?_i=AA" alt="Coding Gif" width="100%" height="300px">
 
 ## Hi, I'm [Mohammed-El-Aouri!!](https://github.com/kimbo-slicee/) Junior Web Full Stack developer & SE student👋
 
