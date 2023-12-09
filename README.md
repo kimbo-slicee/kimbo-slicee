@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+profile%2C+I'M+Mohammed+EL+Aouri+👨‍🎓)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+profile%2C+I'M+Mohammed+EL+Aouri+👨‍🎓+)](https://git.io/typing-svg)
 <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" alt="Coding Gif" width="100%" height="300px">
 
 ## Hi, I'm [Mohammed-El-Aouri!!](https://github.com/kimbo-slicee/) Junior Web Full Stack developer & SE student👋
