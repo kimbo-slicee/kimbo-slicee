@@ -30,25 +30,20 @@
   <a href="https://github.com/kimbo-slicee/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
-### 📺 Tutorials Watched
-
-[![Algorithms and Data Structures Tutorial - Full Course for Beginners](https://ytcards.demolab.com/?id=2ZLl8GAk1X4&title=Data+Structures+and+Algorithms&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029 "Algorithms and Data Structures Tutorial - Full Course for Beginners")](https://www.youtube.com/watch?v=2ZLl8GAk1X4)
-[![Algorithms and Data Structures Tutorial - Full Course for Beginners](https://ytcards.demolab.com/?id=2ZLl8GAk1X4&title=Data+Structures+and+Algorithms&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029 "Algorithms and Data Structures Tutorial - Full Course for Beginners")](https://www.youtube.com/watch?v=2ZLl8GAk1X4)
-[![Algorithms and Data Structures Tutorial - Full Course for Beginners](https://ytcards.demolab.com/?id=2ZLl8GAk1X4&title=Data+Structures+and+Algorithms&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029 "Algorithms and Data Structures Tutorial - Full Course for Beginners")](https://www.youtube.com/watch?v=2ZLl8GAk1X4)
-[![Algorithms and Data Structures Tutorial - Full Course for Beginners](https://ytcards.demolab.com/?id=2ZLl8GAk1X4&title=Data+Structures+and+Algorithms&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029 "Algorithms and Data Structures Tutorial - Full Course for Beginners")](https://www.youtube.com/watch?v=2ZLl8GAk1X4)
-[![Algorithms and Data Structures Tutorial - Full Course for Beginners](https://ytcards.demolab.com/?id=2ZLl8GAk1X4&title=Data+Structures+and+Algorithms&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029 "Algorithms and Data Structures Tutorial - Full Course for Beginners")](https://www.youtube.com/watch?v=2ZLl8GAk1X4)
-[![Algorithms and Data Structures Tutorial - Full Course for Beginners](https://ytcards.demolab.com/?id=2ZLl8GAk1X4&title=Data+Structures+and+Algorithms&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029 "Algorithms and Data Structures Tutorial - Full Course for Beginners")](https://www.youtube.com/watch?v=2ZLl8GAk1X4)
-
-
-
-
 <p align="center">
   <a href="https://stars.github.com/profiles/kimbo-slicee/">
     <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
 </p>
-
---- 
-### 📺 YouTube Videos 
-
 ---
+### 📺 Tutorials Watched
+<p align="center">
+   
+[![Algorithms and Data Structures Tutorial - Full Course for Beginners](https://ytcards.demolab.com/?id=2ZLl8GAk1X4&title=Data+Structures+and+Algorithms&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029 "Algorithms and Data Structures Tutorial - Full Course for Beginners")](https://www.youtube.com/watch?v=2ZLl8GAk1X4)
+[![Algorithms and Data Structures Tutorial - Full Course for Beginners](https://ytcards.demolab.com/?id=2ZLl8GAk1X4&title=Data+Structures+and+Algorithms&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029 "Algorithms and Data Structures Tutorial - Full Course for Beginners")](https://www.youtube.com/watch?v=2ZLl8GAk1X4)
+[![Algorithms and Data Structures Tutorial - Full Course for Beginners](https://ytcards.demolab.com/?id=2ZLl8GAk1X4&title=Data+Structures+and+Algorithms&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029 "Algorithms and Data Structures Tutorial - Full Course for Beginners")](https://www.youtube.com/watch?v=2ZLl8GAk1X4)
+[![Algorithms and Data Structures Tutorial - Full Course for Beginners](https://ytcards.demolab.com/?id=2ZLl8GAk1X4&title=Data+Structures+and+Algorithms&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029 "Algorithms and Data Structures Tutorial - Full Course for Beginners")](https://www.youtube.com/watch?v=2ZLl8GAk1X4)
+[![Algorithms and Data Structures Tutorial - Full Course for Beginners](https://ytcards.demolab.com/?id=2ZLl8GAk1X4&title=Data+Structures+and+Algorithms&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029 "Algorithms and Data Structures Tutorial - Full Course for Beginners")](https://www.youtube.com/watch?v=2ZLl8GAk1X4)
+[![Algorithms and Data Structures Tutorial - Full Course for Beginners](https://ytcards.demolab.com/?id=2ZLl8GAk1X4&title=Data+Structures+and+Algorithms&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029 "Algorithms and Data Structures Tutorial - Full Course for Beginners")](https://www.youtube.com/watch?v=2ZLl8GAk1X4)
+
+</p>
 
