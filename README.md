@@ -1,10 +1,6 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=false&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+Mohamed+El+aouri+" alt="Typing SVG" /></a>
-</br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=false&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+Mohamed+El+aouri+" alt="Typing SVG" /></a></br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Development+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Software+Engineering+Student+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93" alt="Typing SVG" /></a>
-</p>
-<p align="center">
- I'm a Software Engineering student all the way from beautiful Morocco🌎, with an unstoppable passion for all things Tech & Programming 🤓. I'm a lifelong learner , a cheerful problem-solver 😁, and totally excited about building cool solutions 💡. Always ready for new adventures and super dedicated to growing professionally 🚀. Welcome to my GitHub profile! 🎉 With a heart full of love for tech and programming 👨‍💻,
 </p>
 <p align="center">
    <a href="https://www.youtube.com/@TURBOFF-ym1rp"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
@@ -20,8 +16,7 @@
   <a href=""><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
 <p align="center">
-  <a href="https://stars.github.com/profiles/kimbo-slicee/">
-    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
+ I'm a Software Engineering student all the way from beautiful Morocco🌎, with an unstoppable passion for all things Tech & Programming 🤓. I'm a lifelong learner , a cheerful problem-solver 😁, and totally excited about building cool solutions 💡. Always ready for new adventures and super dedicated to growing professionally 🚀. Welcome to my GitHub profile! 🎉 With a heart full of love for tech and programming 👨‍💻,
 </p>
 <p align="center">
   <a href="https://www.youtube.com/@TURBOFF-ym1rp">
@@ -35,8 +30,13 @@
   <a href="https://github.com/kimbo-slicee/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
+<p align="center">
+  <a href="https://stars.github.com/profiles/kimbo-slicee/">
+    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
+</p>
 
 --- 
 ### 📺 YouTube Videos 
 
+---
 
