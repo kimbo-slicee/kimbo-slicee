@@ -1,6 +1,10 @@
 <p align="center">
 <a href="https://github.com/kimbo-slicee"><img src="https://readme-typing-svg.demolab.com?font=Labrada&weight=500&size=25&pause=1000&width=435&lines=Hey+there!%F0%9F%91%8B%2C+I'm+Mohammed+El+aouri;Welcome+to+my+GitHub+profile!+%F0%9F%8E%89" alt="Mohammed el aouri " /></a>
 </p>
+<h3 align="center">I'm <a href="https://github.com/kimbo-slicee">Mohammed El Aouri</a></h3>
+<p align="center">
+Hello 👋, I'm a Software Engineering student all the way from beautiful Morocco🌎, with an unstoppable passion for all things Tech & Programming 🤓. I'm a lifelong learner , a cheerful problem-solver 😁, and totally excited about building cool solutions 💡. Always ready for new adventures and super dedicated to growing professionally 🚀. Welcome to my GitHub profile! 🎉 With a heart full of love for tech and programming 👨‍💻,
+</p>
 <p align="center">
   <a href="https://www.youtube.com/@TURBOFF-ym1rp"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -14,27 +18,21 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href=""><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
-
-<h3 align="center">I'm <a href="https://github.com/kimbo-slicee">Mohammed El Aouri</a></h3>
 <p align="center">
-Hello 👋, I'm a Software Engineering student all the way from beautiful Morocco🌎, with an unstoppable passion for all things Tech & Programming 🤓. I'm a lifelong learner , a cheerful problem-solver 😁, and totally excited about building cool solutions 💡. Always ready for new adventures and super dedicated to growing professionally 🚀. Welcome to my GitHub profile! 🎉 With a heart full of love for tech and programming 👨‍💻,
+  <a href="https://stars.github.com/profiles/kimbo-slicee/">
+    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
 </p>
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
+  <a href="https://www.youtube.com/@TURBOFF-ym1rp">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
   <a href="https://www.youtube.com/c/DevProTips">
     <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kimbo-slicee?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/kimbo-slicee1?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/kimbo-slicee?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/kimbo-slicee/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
-</p>
-
-<p align="center">
-  <a href="https://stars.github.com/profiles/denvercoder1/">
-    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
 </p>
 
 --- 
@@ -52,8 +50,6 @@ Hello 👋, I'm a Software Engineering student all the way from beautiful Morocc
 
 
 ### 🧰 Languages and Tools
-<details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
@@ -157,5 +153,5 @@ Hello 👋, I'm a Software Engineering student all the way from beautiful Morocc
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
-</details>
+
 
