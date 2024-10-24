@@ -6,17 +6,6 @@
 </p>
 <p align="center">
 Hello 👋, I'm a Software Engineering student all the way from beautiful Morocco🌎, with an unstoppable passion for all things Tech & Programming 🤓. I'm a lifelong learner , a cheerful problem-solver 😁, and totally excited about building cool solutions 💡. Always ready for new adventures and super dedicated to growing professionally 🚀. Welcome to my GitHub profile! 🎉 With a heart full of love for tech and programming 👨‍💻,
-  <a href="https://www.youtube.com/@TURBOFF-ym1rp"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/elaouri/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://x.com/aouri96737"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
 <p align="center">
   <a href="https://stars.github.com/profiles/kimbo-slicee/">
