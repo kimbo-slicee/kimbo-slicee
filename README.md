@@ -38,6 +38,19 @@ Hello 👋, I'm a Software Engineering student all the way from beautiful Morocc
 </p>
 
 --- 
+
+
+### 📍 My Contact infos
+
+<div> 
+  <a href="https://instagram.com/ka_coders" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discordapp.com/users/997994917253107733" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:khalidammarofficial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/khalid-ammar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/KAsamadev" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
+</div>
+
+
 ### 🧰 Languages and Tools
 <p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs,java,spring"> </a> </p>
 
