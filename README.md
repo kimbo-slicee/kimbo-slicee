@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/kimbo-slicee"><img src="https://readme-typing-svg.demolab.com?font=Labrada&weight=500&size=25&pause=1000&width=435&lines=Hey+there!%F0%9F%91%8B%2C+I'm+Mohammed+El+aouri;Welcome+to+my+GitHub+profile!+%F0%9F%8E%89" alt="Mohammed el aouri " /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3797FF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Development+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Software+Engineering+Student+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93" alt="Typing SVG" /></a>
 </p>
 <p align="center">
   <a href="https://www.youtube.com/@TURBOFF-ym1rp"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
