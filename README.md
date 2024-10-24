@@ -15,6 +15,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href=""><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
+
 <p align="center">
  I'm a Software Engineering student all the way from beautiful Morocco🌎, with an unstoppable passion for all things Tech & Programming 🤓. I'm a lifelong learner , a cheerful problem-solver 😁, and totally excited about building cool solutions 💡. Always ready for new adventures and super dedicated to growing professionally 🚀. Welcome to my GitHub profile! 🎉 With a heart full of love for tech and programming 👨‍💻,
 </p>
@@ -34,7 +35,9 @@
   <a href="https://stars.github.com/profiles/kimbo-slicee/">
     <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
 </p>
+
 ---
+
 ### 📺 Tutorials Watched
 <p align="center">
    
