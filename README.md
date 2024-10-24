@@ -1,4 +1,7 @@
 <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=1000&color=3797FF&center=true&vCenter=true&repeat=false&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+Mohamed+El+aouri+" alt="Typing SVG" /></a>
+</p>
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3797FF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Development+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Software+Engineering+Student+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93" alt="Typing SVG" /></a>
 </p>
 <p align="center">
@@ -14,7 +17,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href=""><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
-<h3 align="center">I'm <a href="https://github.com/kimbo-slicee">Mohammed El Aouri</a></h3>
 <p align="center">
 Hello 👋, I'm a Software Engineering student all the way from beautiful Morocco🌎, with an unstoppable passion for all things Tech & Programming 🤓. I'm a lifelong learner , a cheerful problem-solver 😁, and totally excited about building cool solutions 💡. Always ready for new adventures and super dedicated to growing professionally 🚀. Welcome to my GitHub profile! 🎉 With a heart full of love for tech and programming 👨‍💻,
 </p>
