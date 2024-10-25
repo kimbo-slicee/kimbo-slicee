@@ -45,8 +45,19 @@
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=kimbo-slicee&show_icons=true&theme=radical&hide_border=true" />
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kimbo-slicee&theme=radical&hide_border=true" />
 </p>
-<br>
 
 ### 🏷️ Holopin Badges
-
   <p align="center"><a href="https://github.com/kimbo-slicee"><img src="https://holopin.me/denvercoder1" alt="Mohammed El Aouri Badges"></a></p>
+  
+  ### [My Absolute Favorites](https://github.com/kimbo-slicee)
+  
+- [💻 &nbsp; I love exploring new tech stack and building cool stuffs.](https://github.com/kimbo-slicee)
+- [🤩 &nbsp; Reading books &amp; Traveling ✈.](https://github.com/kimbo-slicee)
+- [🍕 &nbsp; Movies, meetups &amp; tech events.](https://github.com/kimbo-slicee)
+
+### [Talking about Personal Stuffs](https://github.com/kimbo-slicee)
+
+- [📕 &nbsp; I’m Currently studying Web Full stack Development &amp; Mobile Development.](https://github.com/kimbo-slicee)
+- [🚀 &nbsp; I’m currently enrolled in ](https://github.com/kimbo-slicee)[1337 Software Engineering Program](https://admission.1337.ma).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/kimbo-slicee).
+- 👾 &nbsp; My birthday is 5/10
