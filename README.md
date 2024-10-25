@@ -38,14 +38,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 📺 Tutorials Watched
+### 📊 Stats
+
 <p align="center">
-   
-[![Algorithms and Data Structures Tutorial - Full Course for Beginners](https://ytcards.demolab.com/?id=2ZLl8GAk1X4&title=Data+Structures+and+Algorithms&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029 "Algorithms and Data Structures Tutorial - Full Course for Beginners")](https://www.youtube.com/watch?v=2ZLl8GAk1X4)
-[![Algorithms and Data Structures Tutorial - Full Course for Beginners](https://ytcards.demolab.com/?id=2ZLl8GAk1X4&title=Data+Structures+and+Algorithms&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029 "Algorithms and Data Structures Tutorial - Full Course for Beginners")](https://www.youtube.com/watch?v=2ZLl8GAk1X4)
-[![Algorithms and Data Structures Tutorial - Full Course for Beginners](https://ytcards.demolab.com/?id=2ZLl8GAk1X4&title=Data+Structures+and+Algorithms&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029 "Algorithms and Data Structures Tutorial - Full Course for Beginners")](https://www.youtube.com/watch?v=2ZLl8GAk1X4)
-[![Algorithms and Data Structures Tutorial - Full Course for Beginners](https://ytcards.demolab.com/?id=2ZLl8GAk1X4&title=Data+Structures+and+Algorithms&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029 "Algorithms and Data Structures Tutorial - Full Course for Beginners")](https://www.youtube.com/watch?v=2ZLl8GAk1X4)
-[![Algorithms and Data Structures Tutorial - Full Course for Beginners](https://ytcards.demolab.com/?id=2ZLl8GAk1X4&title=Data+Structures+and+Algorithms&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029 "Algorithms and Data Structures Tutorial - Full Course for Beginners")](https://www.youtube.com/watch?v=2ZLl8GAk1X4)
-[![Algorithms and Data Structures Tutorial - Full Course for Beginners](https://ytcards.demolab.com/?id=2ZLl8GAk1X4&title=Data+Structures+and+Algorithms&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029 "Algorithms and Data Structures Tutorial - Full Course for Beginners")](https://www.youtube.com/watch?v=2ZLl8GAk1X4)
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=kimbo-slicee&theme=radical" />
 </p>
+<p align="left">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=kimbo-slicee&show_icons=true&theme=radical&hide_border=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kimbo-slicee&theme=radical&hide_border=true" />
+</p>
+<br>
 
