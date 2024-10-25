@@ -38,13 +38,23 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=kimbo-slicee&theme=radical" />
-</p>
-<p align="left">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=kimbo-slicee&show_icons=true&theme=radical&hide_border=true" />
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kimbo-slicee&theme=radical&hide_border=true" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kimbo-slicee&theme=react" alt="kimbo-slicee github activity graph">
+
+<div align="center" >
+    <a href="https://github.com/kimbo-slicee/github-readme-streak-stats" >
+      <img height=300 align="center"  title=" Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=kimbo-slicee&theme=react&hide_border=false&card_width=500"/>
+    </a>
+</div>
+
+
+<div align="center">
+<a href="https://github.com/kimbo-slicee">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kimbo-slicee&theme=react&card_width=400" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kimbo-slicee&layout=compact&langs_count=8&card_width=320&theme=react"/>
+</a>
+</div>
 
 ### 🏷️ Holopin Badges
   <p align="center"><a href="https://github.com/kimbo-slicee"><img src="https://holopin.me/denvercoder1" alt="Mohammed El Aouri Badges"></a></p>
