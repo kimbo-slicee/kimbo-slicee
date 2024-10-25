@@ -47,3 +47,6 @@
 </p>
 <br>
 
+### 🏷️ Holopin Badges
+
+  <p align="center"><a href="https://github.com/kimbo-slicee"><img src="https://holopin.me/denvercoder1" alt="Mohammed El Aouri Badges"></a></p>
