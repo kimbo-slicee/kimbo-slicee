@@ -38,6 +38,28 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<---- contact ---->
+
+### My Contact infos
+<div> 
+  <a href="https://instagram.com/ka_coders" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discordapp.com/users/997994917253107733" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:khalidammarofficial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/khalid-ammar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/KAsamadev" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
+</div>
+
+## What I'm Doing
+
+- 🔭 Working on Websites/Roblox Development
+- 🌱 Learning Node.js & more
+- 📫 How to contact me: thinkright20 (Discord)
+
+### 🧰 Languages and Tools
+<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=html,css,javacript,typescript"></a></p>
+<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs,java,spring"></a></p>
+
+
 <div align="center" >
     <a href="https://github.com/kimbo-slicee/github-readme-streak-stats" >
       <img height=300 align="center"  title=" Get streak stats for your profile at git.io/streak-stats" alt="Mohammed el aouri" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=kimbo-slicee&theme=radical&hide_border=false&card_width=500"/>
