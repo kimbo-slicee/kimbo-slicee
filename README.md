@@ -38,7 +38,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## What I'm Doing 
+### What I'm Doing 
 
 - 🔭 Working on Websites
 - 🌱 Learning Node.js & more
@@ -147,6 +147,7 @@
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
+  
 ### 📺 Tutorials Watched
 
 <div align="center">
