@@ -153,7 +153,7 @@
 <div align="center">
 <img src="https://ytcards.demolab.com/?id=2ZLl8GAk1X4&title=Data+Structures+and+Algorithms&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029" title="Algorithms and Data Structures Tutorial - Full Course for Beginners" alt="Algorithms and Data Structures Tutorial - Full Course for Beginners" with="200">
 
-<img src="https://ytcards.demolab.com/?id=BpPEoZW5IiY&t&title=Rust+Programming+Course+📚&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029" title="Rust Programming - Complete Course "alt="Algorithms and Data Structures Tutorial - Full Course for Beginners" with="200">
+<img src="https://ytcards.demolab.com/id=BpPEoZW5IiY&t&title=Rust+Programming+Course+&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029" title="Rust Programming - Complete Course "alt="Algorithms and Data Structures Tutorial - Full Course for Beginners" with="200">
 
 <img src="https://ytcards.demolab.com/?id=2ZLl8GAk1X4&title=Data+Structures+and+Algorithms&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029" title="Algorithms and Data Structures Tutorial - Full Course for Beginners" alt="Algorithms and Data Structures Tutorial - Full Course for Beginners" with="200">
 
