@@ -56,7 +56,7 @@
 </br>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kimbo-slicee&theme=react" alt="kimbo-slicee github activity graph">   
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kimbo-slicee&theme=react&bg_color=141321&color=fe428e&line=f8d847&point=f8d847&title_color=f8d847" alt="kimbo-slicee github activity graph">   
 </div>
 
 ### 🏷️ Holopin Badges
