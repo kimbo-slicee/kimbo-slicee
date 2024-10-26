@@ -46,7 +46,7 @@
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kimbo-slicee&theme=radical&hide_border=true" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kimbo-slicee&theme=github-compact" alt="kimbo-slicee github activity graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kimbo-slicee&theme=rogue" alt="kimbo-slicee github activity graph">
 
 ### 🏷️ Holopin Badges
   <p align="center"><a href="https://github.com/kimbo-slicee"><img src="https://holopin.me/denvercoder1" alt="Mohammed El Aouri Badges"></a></p>
