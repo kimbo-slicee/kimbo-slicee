@@ -48,6 +48,36 @@
 <p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=html,css,javacript,typescript"></a></p>
 <p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs,java,spring"></a></p>
 
+### 📺 Tutorials Watched
+
+<div align="center">
+<img src="https://ytcards.demolab.com/?id=2ZLl8GAk1X4&title=Data+Structures+and+Algorithms&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029" title="Algorithms and Data Structures Tutorial - Full Course for Beginners" alt="Algorithms and Data Structures Tutorial - Full Course for Beginners" with="200">
+</div>
+
+<div align="center">
+<img src="https://ytcards.demolab.com/?id=2ZLl8GAk1X4&title=Data+Structures+and+Algorithms&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029" title="Algorithms and Data Structures Tutorial - Full Course for Beginners" alt="Algorithms and Data Structures Tutorial - Full Course for Beginners" with="200">
+</div>
+
+
+<div align="center">
+<img src="https://ytcards.demolab.com/?id=2ZLl8GAk1X4&title=Data+Structures+and+Algorithms&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029" title="Algorithms and Data Structures Tutorial - Full Course for Beginners" alt="Algorithms and Data Structures Tutorial - Full Course for Beginners" with="200">
+</div>
+<div align="center">
+<img src="https://ytcards.demolab.com/?id=2ZLl8GAk1X4&title=Data+Structures+and+Algorithms&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029" title="Algorithms and Data Structures Tutorial - Full Course for Beginners" alt="Algorithms and Data Structures Tutorial - Full Course for Beginners" with="200">
+</div>
+
+<div align="center">
+<img src="https://ytcards.demolab.com/?id=2ZLl8GAk1X4&title=Data+Structures+and+Algorithms&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029" title="Algorithms and Data Structures Tutorial - Full Course for Beginners" alt="Algorithms and Data Structures Tutorial - Full Course for Beginners" with="200">
+</div>
+
+
+<div align="center">
+<img src="https://ytcards.demolab.com/?id=2ZLl8GAk1X4&title=Data+Structures+and+Algorithms&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029" title="Algorithms and Data Structures Tutorial - Full Course for Beginners" alt="Algorithms and Data Structures Tutorial - Full Course for Beginners" with="200">
+</div>
+
+
+
+
 <div align="center" >
     <a href="https://github.com/kimbo-slicee/github-readme-streak-stats" >
       <img height=300 align="center"  title=" Get streak stats for your profile at git.io/streak-stats" alt="Mohammed el aouri" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=kimbo-slicee&theme=radical&hide_border=false&card_width=500"/>
