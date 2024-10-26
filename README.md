@@ -1,5 +1,6 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=false&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+Mohamed+El+aouri+" alt="Typing SVG" /></a></br>
+<ima src="https://www.canva.com/design/DAGUtjp2CEA/MVjjNskMDjMkg-jfPwULbg/edit?utm_content=DAGUtjp2CEA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="image-profile"/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Development+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Software+Engineering+Student+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93" alt="Typing SVG" /></a>
 </p>
 <p align="center">
