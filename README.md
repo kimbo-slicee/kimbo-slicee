@@ -53,7 +53,9 @@
 </a>
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kimbo-slicee&theme=rogue" alt="kimbo-slicee github activity graph">
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kimbo-slicee&theme=tokyo-night	" alt="kimbo-slicee github activity graph">   
+</div>
 
 ### 🏷️ Holopin Badges
   <p align="center"><a href="https://github.com/kimbo-slicee"><img src="https://holopin.me/denvercoder1" alt="Mohammed El Aouri Badges"></a></p>
