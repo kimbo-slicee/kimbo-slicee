@@ -173,7 +173,7 @@
 </br>
 <div align="center">
 <a href="https://github.com/kimbo-slicee">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kimbo-slicee&theme=radical&card_width=400" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kimbo-slicee&theme=react&card_width=400" />
 </a>
 <a href="https://github.com/kimbo-slicee">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kimbo-slicee&layout=compact&langs_count=8&card_width=320&theme=react"/>
