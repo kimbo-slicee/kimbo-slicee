@@ -167,7 +167,7 @@
 
 <div align="center" >
     <a href="https://github.com/kimbo-slicee/github-readme-streak-stats" >
-      <img height=300 align="center"  title=" Get streak stats for your profile at git.io/streak-stats" alt="Mohammed el aouri" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=kimbo-slicee&theme=radical&hide_border=false&card_width=500"/>
+      <img height=300 align="center"  title=" Get streak stats for your profile at git.io/streak-stats" alt="Mohammed el aouri" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=kimbo-slicee&theme=react&hide_border=false&card_width=500"/>
     </a>
 </div>
 </br>
@@ -176,14 +176,14 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kimbo-slicee&theme=radical&card_width=400" />
 </a>
 <a href="https://github.com/kimbo-slicee">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kimbo-slicee&layout=compact&langs_count=8&card_width=320&theme=radical"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kimbo-slicee&layout=compact&langs_count=8&card_width=320&theme=react"/>
 </a>
 </div>
 
 </br>
 
 <div align="center">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kimbo-slicee&theme=react&bg_color=141321&color=fe428e&line=f8d847&point=f8d847&title_color=f8d847" alt="kimbo-slicee github activity graph">   
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kimbo-slicee&theme=react" alt="kimbo-slicee github activity graph">   
 </div>
 
 ### 🏷️ [Holopin Badges]()
