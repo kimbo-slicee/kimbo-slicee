@@ -7,6 +7,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Development+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Software+Engineering+Student+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93" alt="Typing SVG" /></a>
 </p>
 <p align="center">
+ Hello! I'm Mohammed El Aouri, a software engineering and data analytics student from beautiful Morocco, and a passionate content creator. My curiosity and love for the IT world drive me to continuously explore new technologies and the philosophies behind their creation. Here on my GitHub, you'll find my projects, research, and courses. Feel free to use any of my code—I believe knowledge should be accessible to everyone!
+ <p align="center">
    <a href="#"><img width="32px" alt="Youtube" title="Youtube" src="./images/6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/elaouri/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="./images/4.png"/></a>
@@ -19,9 +21,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href=""><img width="32px" alt="Free Stuff" title="Free gifts for you" src="./images/3.png"/></a>
 </p>
-
-<p align="center">
- I'm a Software Engineering student all the way from beautiful Morocco🌎, with an unstoppable passion for all things Tech & Programming 🤓. I'm a lifelong learner , a cheerful problem-solver 😁, and totally excited about building cool solutions 💡. Always ready for new adventures and super dedicated to growing professionally 🚀. Welcome to my GitHub profile! 🎉 With a heart full of love for tech and programming 👨‍💻,
 </p>
 <p align="center">
   <a href="https://www.youtube.com/@TURBOFF-ym1rp">
@@ -44,11 +43,11 @@
 
 ### What I'm Doing 
 
-- 🔭 Working on Websites
-- 🌱 Learning Node.js & more
+- 🔭 Working on Websites & Mobiel Apps📲 
+- 🌱 Learning Node.js & more ... 
 - 📫 How to contact me: mohammedelaouri@gmail.com (Email)
 
-### 🧰 Languages and Tools
+### 🛠 Languages and Tools
 
 <h3>👨‍💻 Programming and Markup Languages</h3>
 
@@ -162,7 +161,12 @@
 <img src="https://ytcards.demolab.com/?id=2ZLl8GAk1X4&title=Data+Structures+and+Algorithms&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029" title="Algorithms and Data Structures Tutorial - Full Course for Beginners" alt="Algorithms and Data Structures Tutorial - Full Course for Beginners" with="200">
 
 <img src="https://ytcards.demolab.com/?id=2ZLl8GAk1X4&title=Data+Structures+and+Algorithms&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029" title="Algorithms and Data Structures Tutorial - Full Course for Beginners" alt="Algorithms and Data Structures Tutorial - Full Course for Beginners" with="200">
+
+<img src="https://ytcards.demolab.com/?id=2ZLl8GAk1X4&title=Data+Structures+and+Algorithms&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029" title="Algorithms and Data Structures Tutorial - Full Course for Beginners" alt="Algorithms and Data Structures Tutorial - Full Course for Beginners" with="200">   
    
+<img src="https://ytcards.demolab.com/?id=2ZLl8GAk1X4&title=Data+Structures+and+Algorithms&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029" title="Algorithms and Data Structures Tutorial - Full Course for Beginners" alt="Algorithms and Data Structures Tutorial - Full Course for Beginners" with="200">
+
+<img src="https://ytcards.demolab.com/?id=2ZLl8GAk1X4&title=Data+Structures+and+Algorithms&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029" title="Algorithms and Data Structures Tutorial - Full Course for Beginners" alt="Algorithms and Data Structures Tutorial - Full Course for Beginners" with="200">
 </div>
 
 <div align="center" >
@@ -190,15 +194,15 @@
   <p align="center"><a href="https://github.com/kimbo-slicee"><img src="https://holopin.me/denvercoder1" alt="Mohammed El Aouri Badges"></a></p>
   
 
-### ✨ [My Absolute Favorites](https://github.com/kimbo-slicee)
+### ✨ My Absolute Favorites 
   
 - [💻 &nbsp; I love exploring new tech stack and building cool stuffs.](https://github.com/kimbo-slicee)
 - [🤩 &nbsp; Reading books &amp; Traveling ✈.](https://github.com/kimbo-slicee)
 - [🍕 &nbsp; Movies, meetups &amp; tech events.](https://github.com/kimbo-slicee)
 
-### [Talking about Personal Stuffs](https://github.com/kimbo-slicee)
+### Talking about Personal Stuffs
 
 - [📕 &nbsp; I’m Currently studying Web Full stack Development &amp; Mobile Development.](https://github.com/kimbo-slicee)
 - [🚀 &nbsp; I’m currently enrolled in ](https://github.com/kimbo-slicee)[1337 Software Engineering Program](https://admission.1337.ma).
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/kimbo-slicee).
-- 👾 &nbsp; My birthday is 5/10
+- [👨🏻‍💻 &nbsp; Most of my projects are available on Github](https://github.com/kimbo-slicee).
+- [👾 &nbsp; My birthday is 5/10]()
