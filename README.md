@@ -41,13 +41,32 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### What I'm Doing 
 
-- 🔭 Working on Websites & Mobiel Apps📲 
-- 🌱 Learning Node.js & more ... 
-- 📫 How to contact me: mohammedelaouri@gmail.com (Email)
+## What I'm Working On
 
-### 🛠 Languages and Tools
+- 🔭 Building engaging **websites** and **mobile apps** 📲
+- 🚀 Contributing to **real-world projects** to apply my skills and improve them
+- 🛠 Developing a **generative AI** project with plans for future model training
+
+## Currently Learning
+
+- 🌱 Deepening my knowledge of **Node.js** and **Express.js**
+- 🐳 Exploring **Docker** to streamline project deployments
+- 🧩 Experimenting with **MongoDB** and **Angular** for a full-stack blog project
+
+## Skills
+
+- 💻 **Languages**: JavaScript, Python, PHP, SQL
+- 🌐 **Frameworks**: Angular, Node.js, Express.js, and more
+- 🎨 **Technologies**: Firebase, MongoDB, Docker
+
+## Contact Me
+
+- 📫 Reach me at **mohammedelaouri@gmail.com**
+- 📝 Check out my work on [GitHub](https://github.com/yourusername)
+
+
+## 🛠 Languages and Tools
 
 <h3>👨‍💻 Programming and Markup Languages</h3>
 
@@ -151,7 +170,7 @@
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
   
-### 📺 Tutorials Watched
+### 📺 Resoursers
 
 <div align="center">
 <img src="https://ytcards.demolab.com/?id=2ZLl8GAk1X4&title=Data+Structures+and+Algorithms&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029" title="Algorithms and Data Structures Tutorial - Full Course for Beginners" alt="Algorithms and Data Structures Tutorial - Full Course for Beginners" with="200">
@@ -165,13 +184,10 @@
 <img src="https://ytcards.demolab.com/?id=2ZLl8GAk1X4&title=Data+Structures+and+Algorithms&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029" title="Algorithms and Data Structures Tutorial - Full Course for Beginners" alt="Algorithms and Data Structures Tutorial - Full Course for Beginners" with="200">   
    
 <img src="https://ytcards.demolab.com/?id=2ZLl8GAk1X4&title=Data+Structures+and+Algorithms&lang=en&timestamp=1727193642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1029" title="Algorithms and Data Structures Tutorial - Full Course for Beginners" alt="Algorithms and Data Structures Tutorial - Full Course for Beginners" with="200">
-
-<div align="center" >
-    <a href="https://github.com/kimbo-slicee/github-readme-streak-stats" >
-      <img height=300 align="center"  title=" Get streak stats for your profile at git.io/streak-stats" alt="Mohammed el aouri" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=kimbo-slicee&theme=react&hide_border=false&card_width=500"/>
-    </a>
 </div>
-</br>
+
+## 📊 GitHub Stats:
+
 <div align="center">
 <a href="https://github.com/kimbo-slicee">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kimbo-slicee&theme=react&card_width=400" />
@@ -181,25 +197,21 @@
 </a>
 </div>
 
-</br>
+
+<div align="center" >
+    <a href="https://github.com/kimbo-slicee/github-readme-streak-stats" >
+      <img height=200 align="center" alt="Mohammed el aouri" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=kimbo-slicee&theme=react&hide_border=false&card_width=320"/>
+      <img src="https://github-contributor-stats.vercel.app/api?username=kimbo-slicee&limit=6&theme=react&card_width=320&combine_all_yearly_contributions=true" height=200 align="center"   />
+    </a>
+</div>
 
 <div align="center">
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kimbo-slicee&theme=react" alt="kimbo-slicee github activity graph">   
 </div>
 
+
 ### 🏷️ [Holopin Badges]()
   <p align="center"><a href="https://github.com/kimbo-slicee"><img src="https://holopin.me/denvercoder1" alt="Mohammed El Aouri Badges"></a></p>
   
 
-### ✨ My Absolute Favorites 
-  
-- [💻 &nbsp; I love exploring new tech stack and building cool stuffs.](https://github.com/kimbo-slicee)
-- [🤩 &nbsp; Reading books &amp; Traveling ✈.](https://github.com/kimbo-slicee)
-- [🍕 &nbsp; Movies, meetups &amp; tech events.](https://github.com/kimbo-slicee)
 
-### Talking about Personal Stuffs
-
-- [📕 &nbsp; I’m Currently studying Web Full stack Development &amp; Mobile Development.](https://github.com/kimbo-slicee)
-- [🚀 &nbsp; I’m currently enrolled in ](https://github.com/kimbo-slicee)[1337 Software Engineering Program](https://admission.1337.ma).
-- [👨🏻‍💻 &nbsp; Most of my projects are available on Github](https://github.com/kimbo-slicee).
-- [👾 &nbsp; My birthday is 5/10]()
