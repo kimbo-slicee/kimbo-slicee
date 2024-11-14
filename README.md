@@ -83,7 +83,6 @@
       <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
       <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
       <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-      <a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
       <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
@@ -100,7 +99,6 @@
   <h3>🧰 Frameworks and Libraries</h3>
 
   <p>
-      <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
       <a href="#"><img alt="BlissfulJS" src="https://custom-icon-badges.demolab.com/badge/Bliss.js-3dacc2.svg?logo=bliss&logoColor=white"></a>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
       <a href="#"><img alt="Cordova" src="https://img.shields.io/badge/-Cordova-E8E8E8?logo=apache-cordova&logoColor=black"></a>
