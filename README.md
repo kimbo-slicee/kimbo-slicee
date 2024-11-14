@@ -171,10 +171,10 @@
 </br>
 <div align="center">
 <a href="https://github.com/kimbo-slicee">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimbo-slicee&theme=react&card_width=300" height=230 align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kimbo-slicee&theme=react&card_width=300" height=200 align="center" />
 </a>
   <a href="https://github.com/kimbo-slicee/github-readme-streak-stats" >
-      <img src="https://github-contributor-stats.vercel.app/api?username=kimbo-slicee&limit=6&theme=react&card_width=300&combine_all_yearly_contributions=true&hide_border=false" height=230 align="center"   />
+      <img src="https://github-contributor-stats.vercel.app/api?username=kimbo-slicee&limit=6&theme=react&card_width=300&combine_all_yearly_contributions=true&hide_border=false" height=200 align="center"   />
     </a>
 </div>
 <div align="center">
