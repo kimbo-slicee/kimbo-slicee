@@ -171,10 +171,10 @@
 </br>
 <div align="center">
 <a href="https://github.com/kimbo-slicee">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimbo-slicee&theme=react&card_width=300" height=250 align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kimbo-slicee&theme=react&card_width=300" height=230 align="center" />
 </a>
   <a href="https://github.com/kimbo-slicee/github-readme-streak-stats" >
-      <img src="https://github-contributor-stats.vercel.app/api?username=kimbo-slicee&limit=6&theme=react&card_width=300&combine_all_yearly_contributions=true&hide_border=false" height=250 align="center"   />
+      <img src="https://github-contributor-stats.vercel.app/api?username=kimbo-slicee&limit=6&theme=react&card_width=300&combine_all_yearly_contributions=true&hide_border=false" height=230 align="center"   />
     </a>
 </div>
 <div align="center">
@@ -192,9 +192,9 @@ Statistics</h3>
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kimbo-slicee&theme=react" alt="kimbo-slicee github activity graph">   
 </div>
 <div align="center">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kimbo-slicee&theme=react" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KHDEVAM&theme=react" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kimbo-slicee&theme=react" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kimbo-slicee&theme=react" height="150em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KHDEVAM&theme=react" height="150em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kimbo-slicee&theme=react" height="150em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
