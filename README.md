@@ -7,7 +7,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Development+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Software+Engineering+Student+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93" alt="Typing SVG" /></a>
 </p>
 <p align="center">
- Hello! I'm Mohammed El Aouri, a software engineering and data analytics student from beautiful Morocco, and a passionate content creator. My curiosity and love for the IT world drive me to continuously explore new technologies and the philosophies behind their creation. Here on my GitHub, you'll find my projects, research, and courses. Feel free to use any of my code—I believe knowledge should be accessible to everyone!
+Hello! I'm Mohammed El Aouri, a computer science student from beautiful Morocco, and a passionate content creator. My curiosity and love for the IT world inspire me to keep exploring new technologies and the philosophies behind their creation.
+
+Here on my GitHub, you’ll find my projects, research, and courses—all built with the goal of learning, sharing, and growing. I strongly believe that knowledge should be open and accessible to everyone, so feel free to explore and use any of my code.
+
+Every project I work on is a small step toward becoming a better developer and a stronger problem solver. I’m excited to keep pushing boundaries, learning from challenges, and sharing my journey with the community. 🌟
  <p align="center">
    <a href="#"><img width="32px" alt="Youtube" title="Youtube" src="./images/6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
